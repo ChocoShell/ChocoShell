@@ -1,3 +1,16 @@
+### Languages
+
+<p>
+    <img alt="scala" src="https://img.shields.io/badge/-Scala-de3d3b?style=flat-square&logo=scala&logoColor=white" />
+    <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter-f37726?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="python" src="https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=python&logoColor=white" />
+    <img alt="javascript" src="https://img.shields.io/badge/-Javascript-13aa52?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-E10098?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+
 ### Github Stats
 
 <a href="https://github.com/ChocoShell/ChocoShell">
