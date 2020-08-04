@@ -1,4 +1,4 @@
-### Languages
+### :earth_americas: Hello World
 
 <p>
     <a href="https://scala-lang.org/">
@@ -10,7 +10,7 @@
     <a href="https://www.python.org/">
         <img alt="python" src="https://img.shields.io/badge/-Python-F7B93E?style=flat-square&logo=python&logoColor=white" />
     </a>
-    <a href="">
+    <a>
         <img alt="javascript" src="https://img.shields.io/badge/-Javascript-13aa52?style=flat-square&logo=javascript&logoColor=white" />
     </a>
     <a href="https://reactjs.org/">
@@ -25,7 +25,7 @@
 </p>
 
 
-### Github Stats
+### :chart_with_upwards_trend: GitHub Stats
 
 <a href="https://github.com/ChocoShell/ChocoShell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChocoShell&hide=html,cuda&theme=tokyonight" />
@@ -34,6 +34,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChocoShell&show_icons=true&line_height=27&theme=tokyonight" alt="Jonathan's GitHub Stats" />
 </a>
 
+Stats provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 How to reach me
+
+<p align="left">
+    <a href="https://github.com/chocoshell"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
+  <a href="https://linkedin.com/in/jonathan-a-reyes"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+</p>
 
 <!--
 **ChocoShell/ChocoShell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
