@@ -1,3 +1,5 @@
+🔭 I’m currently working on [Twitch Chat Log Analyzer](https://github.com/ChocoShell/twitch-chat-log-analyzer)
+
 ### :earth_americas: Hello World
 
 <p>
