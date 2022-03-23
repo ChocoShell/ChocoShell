@@ -1,4 +1,4 @@
-🔭 I’m currently working on [Twitch Chat Log Analyzer](https://github.com/ChocoShell/twitch-chat-log-analyzer)
+🔭 I’m currently working on [Mercenaries Farm Bot](https://github.com/Efemache/Mercenaries-Farm-bot)
 
 ### :earth_americas: Hello World
 
