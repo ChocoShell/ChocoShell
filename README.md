@@ -1,4 +1,4 @@
-🔭 I’m currently working on [Mercenaries Farm Bot](https://github.com/Efemache/Mercenaries-Farm-bot)
+🔭 I’m currently working on [Marvel Snap Simulator](https://github.com/ChocoShell/marvel-snap-simulator)
 
 ### :earth_americas: Hello World
 
