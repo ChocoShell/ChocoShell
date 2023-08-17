@@ -41,7 +41,12 @@ Stats provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-re
 ### 📫 How to reach me
 
 <p align="left">
-    <a href="https://github.com/chocoshell"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://camo.githubusercontent.com/4ad0a6efa176989883dfe66791c9ca48ed3e9099d7a13b100359c56ebd9eb601/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f676974687562"></a>
+    <a href="https://github.com/chocoshell">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
+              <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
+        </picture>
+    </a>
   <a href="https://linkedin.com/in/jonathan-a-reyes"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 </p>
 
