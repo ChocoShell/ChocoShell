@@ -47,7 +47,9 @@ Stats provided by [GitHub Readme Stats](https://github.com/anuraghazra/github-re
               <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
         </picture>
     </a>
-  <a href="https://linkedin.com/in/jonathan-a-reyes"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+  <a href="https://linkedin.com/in/jonathan-a-reyes">
+      <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin">
+  </a>
 </p>
 
 <!--
