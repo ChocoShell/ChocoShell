@@ -1,4 +1,4 @@
-🔭 I’m currently working on To Be Announced
+🔭 I’m currently working on [My Blog](https://chocoshell.github.io/)
 
 ### :earth_americas: Hello World
 
